@@ -1,8 +1,8 @@
-#  midi2vjoy.py
-#  
+#  modified from midi2vjoy.py  
 #  Copyright 2017  <c0redumb>
 #  
-
+# midi2vjoy-again.py 
+# luppahannu 2024
 
 import sys, os, time, traceback
 import ctypes
